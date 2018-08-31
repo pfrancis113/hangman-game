@@ -1,6 +1,6 @@
 # Hangman-game
 
-Guess the letter, Guess the word. Before...
+Guess the letter, Guess the word. 
 
 [Play the game here](https://pfrancis113.github.io/hangman-game/)
 
